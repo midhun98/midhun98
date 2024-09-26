@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/midhuns98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhuns98" height="30" width="40" /></a>
 <a href="https://instagram.com/midhun.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun.1" height="30" width="40" /></a>
 <a href="https://medium.com/@midhun98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midhun98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/midhunskani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="midhunskani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@midhunskani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="midhunskani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/midhun98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midhun98" height="30" width="40" /></a>
 </p>
 
