@@ -30,5 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midhun98&show_icons=true&locale=en&layout=compact" alt="midhun98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midhun98&show_icons=true&locale=en" alt="midhun98" /></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/midhun98?theme=light&font=Poppins&ext=heatmap)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midhun98&" alt="midhun98" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/midhun98?theme=light&font=Poppins&ext=heatmap)
+
