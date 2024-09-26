@@ -83,11 +83,9 @@
 
 </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midhun98&show_icons=true&locale=en" alt="midhun98" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midhun98&" alt="midhun98" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=midhun98&bg_color=ffffff&color=9e4c98&line=008040&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/midhun98?theme=light&font=Poppins&ext=heatmap)
-
