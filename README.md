@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [midhun.net](midhun.net)
+- 👨‍💻 Check my website at [midhun.net](midhun.net)
 
 - 📝 I regularly write articles on [https://midhun98.medium.com/](https://midhun98.medium.com/)
 
