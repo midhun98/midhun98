@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA** & **System Design**
 
-- 👨‍💻 Check my website at [midhun](https://midhun.up.railway.app/)
+- 👨‍💻 Check my website at [midhun](https://midhun.xyz/)
 
 - 📝 I regularly write articles on [https://midhun98.medium.com/](https://midhun98.medium.com/)
 
